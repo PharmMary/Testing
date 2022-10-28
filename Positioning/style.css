@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.firstbox{
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+    /* position: relative;
+    left: 10px; */
+
+}
+.secondbox{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    left: 40px;
+    bottom: 40px;
+    /* position: absolute;
+    width: 20px; */
+}
+.thirdbox{
+    width: 200px;
+    height: 100px;
+    background-color: brown;    
+     position: relative;
+     bottom: 80px;
+     left: 80px;
+}
+
+.firstbox1{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    left: 70px;
+}
+.secondbox1{
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    position: relative;
+    bottom: 100px;
+    left: 300px;
+    
+
+}
+
+.thirdbox1{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    top: 350px;
+    bottom: 20px;
+    left: 200px;
+
+}
+
+
